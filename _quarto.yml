@@ -12,6 +12,7 @@ website:
       - schedule.qmd
       - notes.qmd
       - assignments.qmd
+      - events.qmd
 
 format:
   html:

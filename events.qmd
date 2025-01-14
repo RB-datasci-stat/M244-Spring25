@@ -1,0 +1,29 @@
+---
+title: "Events"
+subtitle: "Spring 2025"
+format: 
+  html:
+    page-layout: full
+    theme: cosmo
+    toc: true
+    toc-title: "Contents"
+    embed-resources: true
+    standalone: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+**February 12-13.** The [Henry Seely White
+lectures](https://pages.vassar.edu/mathstats/hsw-lecture-series/) this
+year will be given by [Professor Xiao-Li
+Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng).
+
+**April 11-13.** [DataFest](https://pages.vassar.edu/datafest/) is a
+data analysis competition where teams of up to five students have a
+weekend to attack a large, complex, and surprise dataset. Work together
+with your team members and consult with mentors to find and communicate
+insights into these data. The teams that impress the judges the most
+will win prizes. Everyone else will have a great experience, learn some
+new skills, and have fun! Registration for this year's event will soon
+be available.
