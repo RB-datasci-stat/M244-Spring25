@@ -14,11 +14,11 @@
     "text": "Lectures and class handouts can be accessed at this Google drive folder. Please note that you must have a vassar email in order to access this folder."
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "Lectures and class handouts can be accessed at this Google drive folder. Please note that you must have a vassar email in order to access this folder."
+    "text": "February 12-13. The Henry Seely White lectures this year will be given by Professor Xiao-Li Meng.\nApril 11-13. DataFest is a data analysis competition where teams of up to five students have a weekend to attack a large, complex, and surprise dataset. Work together with your team members and consult with mentors to find and communicate insights into these data. The teams that impress the judges the most will win prizes. Everyone else will have a great experience, learn some new skills, and have fun! Registration for this year’s event will soon be available."
   },
   {
     "objectID": "assignments.html",
@@ -47,6 +47,13 @@
     "title": "Assignments",
     "section": "Project",
     "text": "Project\nTBA"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "TBA"
   },
   {
     "objectID": "index.html",
