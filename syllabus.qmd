@@ -18,36 +18,31 @@ editor:
 
 # Key Information at a Glance:
 
-+----------------+-------------------------+
-| **Classroom**  | Rockefeller Hall 307    |
-+----------------+-------------------------+
-| **Times**      | T/R 3:10--4:25pm        |
-+----------------+-------------------------+
-| **Instructor** | Robin Belton            |
-+----------------+-------------------------+
-| **Instructor   | rbelton\@vassar.edu     |
-| Email**        |                         |
-+----------------+-------------------------+
-| **Instructor   | Rockefeller Hall 401-A  |
-| Office**       |                         |
-+----------------+-------------------------+
-| **Office       | -   Monday/Wednesday:   |
-| Hours**        |     2-3 PM              |
-|                |                         |
-|                | -   Thursday: 9-10 AM   |
-|                |                         |
-|                | -   By appointment\     |
-|                |     (please don't       |
-|                |     hesitate to ask     |
-|                |     about different     |
-|                |     times!)             |
-+----------------+-------------------------+
-| **Textbook**   | Introduction to         |
-|                | Statistical Learning:\  |
-|                | with Applications in    |
-|                | Python\                 |
-|                | (2nd Edition)           |
-+----------------+-------------------------+
++----------------------+--------------------------------------------+
+| **Classroom**        | Rockefeller Hall 307                       |
++----------------------+--------------------------------------------+
+| **Times**            | T/R 3:10--4:25pm                           |
++----------------------+--------------------------------------------+
+| **Instructor**       | [Robin                                     |
+|                      | Belton](https://robinbelton.github.io/)    |
++----------------------+--------------------------------------------+
+| **Instructor Email** | rbelton\@vassar.edu                        |
++----------------------+--------------------------------------------+
+| **Instructor         | Rockefeller Hall 401-A                     |
+| Office**             |                                            |
++----------------------+--------------------------------------------+
+| **Office Hours**     | -   Monday/Wednesday: 2-3 PM               |
+|                      |                                            |
+|                      | -   Thursday: 9-10 AM                      |
+|                      |                                            |
+|                      | -   By appointment\                        |
+|                      |     (please don't hesitate to ask about    |
+|                      |     different times!)                      |
++----------------------+--------------------------------------------+
+| **Textbook**         | Introduction to Statistical Learning:\     |
+|                      | with Applications in Python\               |
+|                      | (2nd Edition)                              |
++----------------------+--------------------------------------------+
 
 In this course, we will refine and expand data wrangling, data
 visualization, and modeling skills. Additionally, we will continue to
@@ -452,7 +447,7 @@ Title IX section of the EOAA website
 ([eoaa.vassar.edu/title-ix/](https://eoaa.vassar.edu/title-ix/)) have
 more information, as well as links to both on- and off-campus resources.
 
-##### *Acknowledgement:* 
+##### *Acknowledgement:*
 
 The content and structure of this syllabus is modeled after related
 syllabi from Drs. Simon Hoellerbauer (University of Massachusetts at
