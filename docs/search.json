@@ -7,6 +7,55 @@
     "text": "Please note that this schedule is filterable and searchable."
   },
   {
+    "objectID": "lectures.html",
+    "href": "lectures.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Lectures and class handouts can be accessed at this Google drive folder. Please note that you must have a vassar email in order to access this folder."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Lectures and class handouts can be accessed at this Google drive folder. Please note that you must have a vassar email in order to access this folder."
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "assignments.html#homework",
+    "href": "assignments.html#homework",
+    "title": "Assignments",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "assignments.html#essays",
+    "href": "assignments.html#essays",
+    "title": "Assignments",
+    "section": "Essays",
+    "text": "Essays\nTBA"
+  },
+  {
+    "objectID": "assignments.html#project",
+    "href": "assignments.html#project",
+    "title": "Assignments",
+    "section": "Project",
+    "text": "Project\nTBA"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MATH 244: Intermediate Data Science",
+    "section": "",
+    "text": "Welcome! This website contains the relevant course information."
+  },
+  {
     "objectID": "syllabus.html#texts",
     "href": "syllabus.html#texts",
     "title": "Syllabus",
@@ -89,61 +138,5 @@
     "title": "Syllabus",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nHadley Wickham is a statistician, the creator of the ggplot2 package and the tidyverse, and Chief Scientist at RStudio. He’s from New Zealand, hence the .nz in the links here and above.↩︎"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MATH 244: Intermediate Data Science",
-    "section": "",
-    "text": "Welcome! This website contains the relevant course information."
-  },
-  {
-    "objectID": "assignments.html",
-    "href": "assignments.html",
-    "title": "Assignments",
-    "section": "",
-    "text": "Files for the homework can be accessed at this Google drive folder. Please note that you must have a vassar email in order to access this folder."
-  },
-  {
-    "objectID": "assignments.html#homework",
-    "href": "assignments.html#homework",
-    "title": "Assignments",
-    "section": "",
-    "text": "Files for the homework can be accessed at this Google drive folder. Please note that you must have a vassar email in order to access this folder."
-  },
-  {
-    "objectID": "assignments.html#essays",
-    "href": "assignments.html#essays",
-    "title": "Assignments",
-    "section": "Essays",
-    "text": "Essays\nTBA"
-  },
-  {
-    "objectID": "assignments.html#project",
-    "href": "assignments.html#project",
-    "title": "Assignments",
-    "section": "Project",
-    "text": "Project\nTBA"
-  },
-  {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
-    "section": "",
-    "text": "Lectures and class handouts can be accessed at this Google drive folder. Please note that you must have a vassar email in order to access this folder."
-  },
-  {
-    "objectID": "lectures.html",
-    "href": "lectures.html",
-    "title": "Notes",
-    "section": "",
-    "text": "Lectures and class handouts can be accessed at this Google drive folder. Please note that you must have a vassar email in order to access this folder."
-  },
-  {
-    "objectID": "math_cmpu280_S24_schedule.html",
-    "href": "math_cmpu280_S24_schedule.html",
-    "title": "MATH 244: Intermediate Data Science Searchable Schedule",
-    "section": "",
-    "text": "Please note that this schedule is filterable and searchable."
   }
 ]
