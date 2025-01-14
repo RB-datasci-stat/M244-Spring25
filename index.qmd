@@ -1,0 +1,5 @@
+---
+title: "MATH 244: Intermediate Data Science"
+---
+
+Welcome! This website contains the relevant course information.
