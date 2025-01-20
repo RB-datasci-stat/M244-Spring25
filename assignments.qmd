@@ -14,9 +14,17 @@ editor:
     wrap: 72
 ---
 
+All homework, essays, and project files can be accessed through the
+[Google
+Drive](https://drive.google.com/drive/folders/1-2MqxLJzUI0wxI8IhVN17Et8YvWTRxF-?usp=sharing).
+Please note that you must have a Vassar email in order to access the
+folder.
+
 ## Homework
 
-TBA
+All homework assignments will be submitted to Gradescope.
+
+0.  Course Information sheet. This is due Thursday, January 30th.
 
 ## Essays
 

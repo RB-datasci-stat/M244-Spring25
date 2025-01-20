@@ -14,6 +14,7 @@ editor:
     wrap: 72
 ---
 
-Lectures and class handouts can be accessed at this Google drive folder.
-Please note that you must have a vassar email in order to access this
+All slides and handouts for this course can be accessed in [Google
+Drive](https://drive.google.com/drive/folders/1bSsXZYec0jS52443tdppaMiCBs901hX3?usp=sharing).
+Please note that you must have a Vassar email in order to access the
 folder.
