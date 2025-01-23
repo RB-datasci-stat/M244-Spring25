@@ -23,7 +23,8 @@ folder.
 ## **Ungraded Assignments to Prepare for Class**
 
 **01/23/25.** Install Python, R, and RStudio on your personal computer.
-Additionally, look over the R vs. Python slides (in the folder
+See the syllabus for links to installation instructions. Additionally,
+look over the R vs. Python slides (in the folder Notes -\>
 1-R-vs-Python) before class on Tuesday.
 
 ## Homework
