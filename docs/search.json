@@ -95,7 +95,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Monday, January 27. Daryl DeFord from Washington State University will give a talk titled Political Geometries: Analyzing Fairness in Redistricting with Statistics from 5-6 in Rocky 312. Tea time will be from 4:30-5 in Rocky 305.\nFriday, January 31. Austin MBaye (VC ’24) from Northeastern University will give a talk at our Math Colloquium. The talk is from 4-5 PM in Rocky 312. Tea time will be from 3:30-4 in Rocky 305.\nFebruary 12-13. The Henry Seely White lectures this year will be given by Professor Xiao-Li Meng.\nFriday, February 21. Dr. Jamie Juul from Colorado State University will give a talk at our Math Colloquium. The talk is from 4-5 PM in Rocky 312. Tea time will be from 3:30-4 in Rocky 305.\nApril 11-13. DataFest is a data analysis competition where teams of up to five students have a weekend to attack a large, complex, and surprise dataset. Work together with your team members and consult with mentors to find and communicate insights into these data. The teams that impress the judges the most will win prizes. Everyone else will have a great experience, learn some new skills, and have fun! Registration for this year’s event will soon be available."
+    "text": "Monday, January 27. Daryl DeFord from Washington State University will give a talk titled Political Geometries: Analyzing Fairness in Redistricting with Statistics from 5-6 in Rocky 312. Tea time will be from 4:30-5 in Rocky 305.\nFriday, January 31. Austin MBaye (VC ’24) from Northeastern University will give a talk at our Math Colloquium. The talk is from 4-5 PM in Rocky 312. Tea time will be from 3:30-4 in Rocky 305.\nFebruary 12-13. The Henry Seely White lectures this year will be given by Professor Xiao-Li Meng.\nWednesday, February 12. Learning, Teaching, and Communication in the Age of AI: Wisdom and Warnings from Harvard Data Science Review (Or: Are you smarter than GPT-4?) from 4-5 in Rocky 300.\nThursday, February 13. From a Cauchy Surprise to the Half-Cauchy Miracle from 2-3 in Rocky 300.\nAdditionally, students can meet with Dr. Xiao-Li Meng for lunch at noon on Thursday 2/13. Please reach out to me if you are interested.\nFriday, February 21. Dr. Jamie Juul from Colorado State University will give a talk at our Math Colloquium. The talk is from 4-5 PM in Rocky 312. Tea time will be from 3:30-4 in Rocky 305.\nApril 11-13. DataFest is a data analysis competition where teams of up to five students have a weekend to attack a large, complex, and surprise dataset. Work together with your team members and consult with mentors to find and communicate insights into these data. The teams that impress the judges the most will win prizes. Everyone else will have a great experience, learn some new skills, and have fun! Registration for this year’s event will soon be available."
   },
   {
     "objectID": "assignments.html",
@@ -103,6 +103,13 @@
     "title": "Assignments",
     "section": "",
     "text": "All homework, essays, and project files can be accessed through the Google Drive. Please note that you must have a Vassar email in order to access the folder."
+  },
+  {
+    "objectID": "assignments.html#ungraded-assignments-to-prepare-for-class",
+    "href": "assignments.html#ungraded-assignments-to-prepare-for-class",
+    "title": "Assignments",
+    "section": "Ungraded Assignments to Prepare for Class",
+    "text": "Ungraded Assignments to Prepare for Class\n01/23/25. Install Python, R, and RStudio on your personal computer. Additionally, look over the R vs. Python slides (in the folder 1-R-vs-Python) before class on Tuesday."
   },
   {
     "objectID": "assignments.html#homework",
