@@ -20,11 +20,17 @@ Drive](https://drive.google.com/drive/folders/1-2MqxLJzUI0wxI8IhVN17Et8YvWTRxF-?
 Please note that you must have a Vassar email in order to access the
 folder.
 
+## **Ungraded Assignments to Prepare for Class**
+
+**01/23/25.** Install Python, R, and RStudio on your personal computer.
+Additionally, look over the R vs. Python slides (in the folder
+1-R-vs-Python) before class on Tuesday.
+
 ## Homework
 
 All homework assignments will be submitted to Gradescope.
 
-0.  Course Information sheet. This is due Thursday, January 30th.
+0.  Course Information sheet. This is due **Thursday, January 30th.**
 
 ## Essays
 
