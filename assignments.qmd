@@ -27,6 +27,9 @@ See the syllabus for links to installation instructions. Additionally,
 look over the R vs. Python slides (in the folder Notes \> 1-R-vs-Python)
 before class on Tuesday.
 
+**01/28/25.** Install Git and make a Github account. See the syllabus
+for instructions.
+
 ## Homework
 
 All homework assignments will be submitted to Gradescope.
@@ -35,7 +38,26 @@ All homework assignments will be submitted to Gradescope.
 
 ## Essays
 
-TBA
+1.  *My Coding Autobiography.* This is open ended and some things you
+    can include are:\
+    \* When did you start coding and why?\
+    \* How do you learn coding?\
+    \* What have been your biggest successes and struggles with coding?\
+    \* What are your coding goals?\
+
+    Try to not go over 2 pages for this, and it is fine if your essay is
+    only a couple paragraphs. At the end of the essay, please note if
+    you used generative AI to help the write it or not, and why. It is
+    up to you to use this technology. I am interested in understanding
+    why people use (or do not use) it.\
+    \
+    At the bottom of your essay please indicate if you are willing to
+    share this with the class in the Google Drive. I think many people
+    will enjoy reading your essay as it will help us connect with one
+    another. However, I understand if you want to keep this more
+    private.\
+    \
+    This is due **Tuesday, February 4th** in Gradescope.
 
 ## Project
 

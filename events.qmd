@@ -20,8 +20,10 @@ Fairness in Redistricting with Statistics* from 5-6 in Rocky 312. Tea
 time will be from 4:30-5 in Rocky 305.
 
 **Friday, January 31.** Austin MBaye (VC '24) from Northeastern
-University will give a talk at our Math Colloquium. The talk is from 4-5
-PM in Rocky 312. Tea time will be from 3:30-4 in Rocky 305.
+University will give a talk titled *Quantifying Repetitive Motor
+Patterns in Autism with Sliding Windows and n-Persistent Scoring
+(SWnPers)* at our Math Colloquium. The talk is from 4-5 PM in Rocky 312.
+Tea time will be from 3:30-4 in Rocky 305.
 
 **Thursday, February 6.** Dr. Shazeda Ahmed from UCLA will give a talk
 titled *The Work of 'Aligning' Artificial Intelligence* from 5:30-6:30

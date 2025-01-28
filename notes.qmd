@@ -21,3 +21,6 @@ folder.
 
 **01/23/24.** 0-welcome. These slides give an overview of the course and
 the software we will be using.
+
+**01/28/24.** 1-R-vs-Python. These slides compare and contrast R and
+Python and includes a few coding exercises.
