@@ -95,7 +95,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Monday, January 27. Dr. Daryl DeFord from Washington State University will give a talk titled Political Geometries: Analyzing Fairness in Redistricting with Statistics from 5-6 in Rocky 312. Tea time will be from 4:30-5 in Rocky 305.\nFriday, January 31. Austin MBaye (VC ’24) from Northeastern University will give a talk at our Math Colloquium. The talk is from 4-5 PM in Rocky 312. Tea time will be from 3:30-4 in Rocky 305.\nThursday, February 6. Dr. Shazeda Ahmed from UCLA will give a talk titled The Work of ‘Aligning’ Artificial Intelligence from 5:30-6:30 at the Data Science and Society Colloquium. Location will be announced soon.\nFebruary 12-13. The Henry Seely White lectures this year will be given by Professor Xiao-Li Meng.\nWednesday, February 12. Learning, Teaching, and Communication in the Age of AI: Wisdom and Warnings from Harvard Data Science Review (Or: Are you smarter than GPT-4?) from 4-5 in Rocky 300.\nThursday, February 13. From a Cauchy Surprise to the Half-Cauchy Miracle from 2-3 in Rocky 300.\nAdditionally, students can meet with Dr. Xiao-Li Meng for lunch at noon on Thursday 2/13. Please reach out to me if you are interested.\nFriday, February 21. Dr. Jamie Juul from Colorado State University will give a talk at our Math Colloquium. The talk is from 4-5 PM in Rocky 312. Tea time will be from 3:30-4 in Rocky 305.\nSaturday, April 5. The 31st Hudson River Undergraduate Mathematics Conference at Union College in Schenectady, New York. I hope you consider attending! Please let me know if you are interested in going.\nApril 11-13. DataFest is a data analysis competition where teams of up to five students have a weekend to attack a large, complex, and surprise dataset. Work together with your team members and consult with mentors to find and communicate insights into these data. The teams that impress the judges the most will win prizes. Everyone else will have a great experience, learn some new skills, and have fun! Go to the website to register."
+    "text": "Monday, January 27. Dr. Daryl DeFord from Washington State University will give a talk titled Political Geometries: Analyzing Fairness in Redistricting with Statistics from 5-6 in Rocky 312. Tea time will be from 4:30-5 in Rocky 305.\nFriday, January 31. Austin MBaye (VC ’24) from Northeastern University will give a talk titled Quantifying Repetitive Motor Patterns in Autism with Sliding Windows and n-Persistent Scoring (SWnPers) at our Math Colloquium. The talk is from 4-5 PM in Rocky 312. Tea time will be from 3:30-4 in Rocky 305.\nThursday, February 6. Dr. Shazeda Ahmed from UCLA will give a talk titled The Work of ‘Aligning’ Artificial Intelligence from 5:30-6:30 at the Data Science and Society Colloquium. Location will be announced soon.\nFebruary 12-13. The Henry Seely White lectures this year will be given by Professor Xiao-Li Meng.\nWednesday, February 12. Learning, Teaching, and Communication in the Age of AI: Wisdom and Warnings from Harvard Data Science Review (Or: Are you smarter than GPT-4?) from 4-5 in Rocky 300.\nThursday, February 13. From a Cauchy Surprise to the Half-Cauchy Miracle from 2-3 in Rocky 300.\nAdditionally, students can meet with Dr. Xiao-Li Meng for lunch at noon on Thursday 2/13. Please reach out to me if you are interested.\nFriday, February 21. Dr. Jamie Juul from Colorado State University will give a talk at our Math Colloquium. The talk is from 4-5 PM in Rocky 312. Tea time will be from 3:30-4 in Rocky 305.\nSaturday, April 5. The 31st Hudson River Undergraduate Mathematics Conference at Union College in Schenectady, New York. I hope you consider attending! Please let me know if you are interested in going.\nApril 11-13. DataFest is a data analysis competition where teams of up to five students have a weekend to attack a large, complex, and surprise dataset. Work together with your team members and consult with mentors to find and communicate insights into these data. The teams that impress the judges the most will win prizes. Everyone else will have a great experience, learn some new skills, and have fun! Go to the website to register."
   },
   {
     "objectID": "assignments.html",
@@ -109,7 +109,7 @@
     "href": "assignments.html#ungraded-assignments-to-prepare-for-class",
     "title": "Assignments",
     "section": "Ungraded Assignments to Prepare for Class",
-    "text": "Ungraded Assignments to Prepare for Class\n01/23/25. Install Python, R, and RStudio on your personal computer. See the syllabus for links to installation instructions. Additionally, look over the R vs. Python slides (in the folder Notes &gt; 1-R-vs-Python) before class on Tuesday."
+    "text": "Ungraded Assignments to Prepare for Class\n01/23/25. Install Python, R, and RStudio on your personal computer. See the syllabus for links to installation instructions. Additionally, look over the R vs. Python slides (in the folder Notes &gt; 1-R-vs-Python) before class on Tuesday.\n01/28/25. Install Git and make a Github account. See the syllabus for instructions."
   },
   {
     "objectID": "assignments.html#homework",
@@ -123,7 +123,7 @@
     "href": "assignments.html#essays",
     "title": "Assignments",
     "section": "Essays",
-    "text": "Essays\nTBA"
+    "text": "Essays\n\nMy Coding Autobiography. This is open ended and some things you can include are:\n* When did you start coding and why?\n* How do you learn coding?\n* What have been your biggest successes and struggles with coding?\n* What are your coding goals?\n\nTry to not go over 2 pages for this, and it is fine if your essay is only a couple paragraphs. At the end of the essay, please note if you used generative AI to help the write it or not, and why. It is up to you to use this technology. I am interested in understanding why people use (or do not use) it.\n\nAt the bottom of your essay please indicate if you are willing to share this with the class in the Google Drive. I think many people will enjoy reading your essay as it will help us connect with one another. However, I understand if you want to keep this more private.\n\nThis is due Tuesday, February 4th in Gradescope."
   },
   {
     "objectID": "assignments.html#project",
@@ -137,7 +137,7 @@
     "href": "notes.html",
     "title": "Notes",
     "section": "",
-    "text": "All slides and handouts for this course can be accessed in Google Drive. Please note that you must have a Vassar email in order to access the folder.\n01/23/24. 0-welcome. These slides give an overview of the course and the software we will be using."
+    "text": "All slides and handouts for this course can be accessed in Google Drive. Please note that you must have a Vassar email in order to access the folder.\n01/23/24. 0-welcome. These slides give an overview of the course and the software we will be using.\n01/28/24. 1-R-vs-Python. These slides compare and contrast R and Python and includes a few coding exercises."
   },
   {
     "objectID": "index.html",
