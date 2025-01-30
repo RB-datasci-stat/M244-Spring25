@@ -19,8 +19,10 @@ Drive](https://drive.google.com/drive/folders/1bSsXZYec0jS52443tdppaMiCBs901hX3?
 Please note that you must have a Vassar email in order to access the
 folder.
 
-**01/23/24.** 0-welcome. These slides give an overview of the course and
+**01/23/25.** 0-welcome. These slides give an overview of the course and
 the software we will be using.
 
-**01/28/24.** 1-R-vs-Python. These slides compare and contrast R and
+**01/28/25.** 1-R-vs-Python. These slides compare and contrast R and
 Python and includes a few coding exercises.
+
+**01/30/25.** Lab 1: Introduction to Git for Version Control.
