@@ -178,8 +178,6 @@ book](https://git-scm.com/book/en/v2).
 You will also need to make a Github account, if you have not done so.
 Please see here for instructions:
 <https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account>.
-We will use Github Classroom (look for a sign-up link in the first week
-of class) to make using Git a bit easier.
 
 We will set-up Git together during the first lab so there is no need to
 do it before then.
@@ -240,7 +238,7 @@ earn points through any of the following engagement activities:
 -   2 points for every math, statistics, or data science talk you
     attend.
 
--   4 points for participating in DataFest (April 11-13)
+-   4 points for participating in DataFest (April 11-13).
 
 -   2 points for completing the course evaluation.
 

@@ -14,8 +14,8 @@ editor:
     wrap: 72
 ---
 
-All homework, essays, and project files can be accessed through the
-[Google
+All homework, essays, labs, and project files can be accessed through
+the [Google
 Drive](https://drive.google.com/drive/folders/1-2MqxLJzUI0wxI8IhVN17Et8YvWTRxF-?usp=sharing).
 Please note that you must have a Vassar email in order to access the
 folder.
@@ -32,8 +32,8 @@ for instructions.
 
 **01/30/25.** Look over the slides datasci-R-Python before class on
 Tuesday. Additionally, fill out the course check-in by Monday. The
-slides will be posted on Friday in the Google Drive. The form link will
-be posted in Slack in `#m244-announcements`
+slides will be posted on Friday in the Google Drive. The form link is
+posted in Slack in `#m244-announcements`
 
 ## Homework
 
@@ -68,7 +68,7 @@ All homework assignments will be submitted to Gradescope.
 
 1.  *Introduction to Git for Version Control.* 01/30. If you don't
     finish this lab in class, then you can finish it by Tuesday,
-    February 4th,
+    February 4th.
 
 ## Project
 
