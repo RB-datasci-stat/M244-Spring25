@@ -109,7 +109,7 @@
     "href": "assignments.html#ungraded-assignments-to-prepare-for-class",
     "title": "Assignments",
     "section": "Ungraded Assignments to Prepare for Class",
-    "text": "Ungraded Assignments to Prepare for Class\n01/23/25. Install Python, R, and RStudio on your personal computer. See the syllabus for links to installation instructions. Additionally, look over the R vs. Python slides (in the folder Notes &gt; 1-R-vs-Python) before class on Tuesday.\n01/28/25. Install Git and make a Github account. See the syllabus for instructions."
+    "text": "Ungraded Assignments to Prepare for Class\n01/23/25. Install Python, R, and RStudio on your personal computer. See the syllabus for links to installation instructions. Additionally, look over the R vs. Python slides (in the folder Notes &gt; 1-R-vs-Python) before class on Tuesday.\n01/28/25. Install Git and make a Github account. See the syllabus for instructions.\n01/30/25. Look over the slides datasci-R-Python before class on Tuesday. Additionally, fill out the course check-in by Monday. The slides will be posted on Friday in the Google Drive. The form link will be posted in Slack in #m244-announcements"
   },
   {
     "objectID": "assignments.html#homework",
@@ -123,7 +123,14 @@
     "href": "assignments.html#essays",
     "title": "Assignments",
     "section": "Essays",
-    "text": "Essays\n\nMy Coding Autobiography. This is open ended and some things you can include are:\n* When did you start coding and why?\n* How do you learn coding?\n* What have been your biggest successes and struggles with coding?\n* What are your coding goals?\n\nTry to not go over 2 pages for this, and it is fine if your essay is only a couple paragraphs. At the end of the essay, please note if you used generative AI to help the write it or not, and why. It is up to you to use this technology. I am interested in understanding why people use (or do not use) it.\n\nAt the bottom of your essay please indicate if you are willing to share this with the class in the Google Drive. I think many people will enjoy reading your essay as it will help us connect with one another. However, I understand if you want to keep this more private.\n\nThis is due Tuesday, February 4th in Gradescope."
+    "text": "Essays\n\nMy Coding Autobiography. This is open ended and some things you can include are:\n* When did you start coding and why?\n* How do you learn coding?\n* What have been your biggest successes and struggles with coding?\n* What are your coding goals?\n\nTry to not go over 2 pages for this, and it is fine if your essay is only a couple paragraphs. At the end of the essay, please note if you used generative AI to help write it or not, and why. It is up to you to use this technology. I am interested in understanding why people use (or do not use) it.\n\nAt the bottom of your essay, please indicate if you are willing to share this with the class in the Google Drive. I think many people will enjoy reading your essay as it will help us connect with one another. However, I understand if you want to keep this more private.\n\nThis is due Tuesday, February 4th in Gradescope."
+  },
+  {
+    "objectID": "assignments.html#labs",
+    "href": "assignments.html#labs",
+    "title": "Assignments",
+    "section": "Labs",
+    "text": "Labs\n\nIntroduction to Git for Version Control. 01/30. If you don’t finish this lab in class, then you can finish it by Tuesday, February 4th,"
   },
   {
     "objectID": "assignments.html#project",
