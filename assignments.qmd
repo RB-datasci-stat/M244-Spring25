@@ -30,6 +30,11 @@ before class on Tuesday.
 **01/28/25.** Install Git and make a Github account. See the syllabus
 for instructions.
 
+**01/30/25.** Look over the slides datasci-R-Python before class on
+Tuesday. Additionally, fill out the course check-in by Monday. The
+slides will be posted on Friday in the Google Drive. The form link will
+be posted in Slack in `#m244-announcements`
+
 ## Homework
 
 All homework assignments will be submitted to Gradescope.
@@ -47,17 +52,23 @@ All homework assignments will be submitted to Gradescope.
 
     Try to not go over 2 pages for this, and it is fine if your essay is
     only a couple paragraphs. At the end of the essay, please note if
-    you used generative AI to help the write it or not, and why. It is
-    up to you to use this technology. I am interested in understanding
-    why people use (or do not use) it.\
+    you used generative AI to help write it or not, and why. It is up to
+    you to use this technology. I am interested in understanding why
+    people use (or do not use) it.\
     \
-    At the bottom of your essay please indicate if you are willing to
+    At the bottom of your essay, please indicate if you are willing to
     share this with the class in the Google Drive. I think many people
     will enjoy reading your essay as it will help us connect with one
     another. However, I understand if you want to keep this more
     private.\
     \
     This is due **Tuesday, February 4th** in Gradescope.
+
+## Labs
+
+1.  *Introduction to Git for Version Control.* 01/30. If you don't
+    finish this lab in class, then you can finish it by Tuesday,
+    February 4th,
 
 ## Project
 
