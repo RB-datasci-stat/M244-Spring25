@@ -30,10 +30,9 @@ before class on Tuesday.
 **01/28/25.** Install Git and make a Github account. See the syllabus
 for instructions.
 
-**01/30/25.** Look over the slides datasci-R-Python before class on
-Tuesday. Additionally, fill out the course check-in by Monday. The
-slides will be posted on Friday in the Google Drive. The form link is
-posted in Slack in `#m244-announcements`
+**01/30/25.** Look over the slides in Notes \> 3-R-Python-datasci before
+class on Tuesday. Additionally, fill out the course check-in by Monday.
+The form link is posted in Slack in `#m244-announcements`
 
 ## Homework
 
