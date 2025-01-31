@@ -66,9 +66,8 @@ All homework assignments will be submitted to Gradescope.
 
 ## Labs
 
-1.  *Introduction to Git for Version Control.* 01/30. If you don't
-    finish this lab in class, then you can finish it by Tuesday,
-    February 4th.
+1.  *Introduction to Git for Version Control.* 01/30. We will finish it
+    in class on Tuesday, February 4th.
 
 ## Project
 
