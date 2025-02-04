@@ -26,9 +26,8 @@ Patterns in Autism with Sliding Windows and n-Persistent Scoring
 Tea time will be from 3:30-4 in Rocky 305.
 
 **Thursday, February 6.** Dr. Shazeda Ahmed from UCLA will give a talk
-titled *The Work of 'Aligning' Artificial Intelligence* from 5:30-6:30
-at the Data Science and Society Colloquium. Location will be announced
-soon.
+titled *The Work of 'Aligning' Artificial Intelligence* from 4-5:15 in
+Taylor 206 at the Data Science and Society Colloquium.
 
 **February 12-13.** The [Henry Seely White
 lectures](https://pages.vassar.edu/mathstats/hsw-lecture-series/) this
