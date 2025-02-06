@@ -26,3 +26,9 @@ the software we will be using.
 Python and includes a few coding exercises.
 
 **01/30/25.** Lab 1: Introduction to Git for Version Control.
+
+**02/04/25.** 3-R-Python-datasci. These slides compare and contrast R
+and Python for manipulating datasets and includes a few coding
+exercises.
+
+**02/06/25.** Lab 2: R, Python, and Git, Oh My!

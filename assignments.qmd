@@ -38,7 +38,8 @@ The form link is posted in Slack in `#m244-announcements`
 
 All homework assignments will be submitted to Gradescope.
 
-0.  Course Information sheet. This is due **Thursday, January 30th.**
+0.  Course Information sheet. This is due Thursday, January 30th.
+1.  Data Science in R and Python. This is due Thursday, February 13th.
 
 ## Essays
 
@@ -67,6 +68,8 @@ All homework assignments will be submitted to Gradescope.
 
 1.  *Introduction to Git for Version Control.* 01/30. We will finish it
     in class on Tuesday, February 4th.
+2.  *R, Python, and Git: Oh My!* 02/06. This is due Monday, February
+    10th in Gradescope.
 
 ## Project
 
