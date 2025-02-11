@@ -34,6 +34,9 @@ for instructions.
 class on Tuesday. Additionally, fill out the course check-in by Monday.
 The form link is posted in Slack in `#m244-announcements`
 
+**02/06/25**. Look over the slides in Notes \> 5-datavis-R before class
+on Tuesday. Additionally, fill out the course check-in by Monday.
+
 ## Homework
 
 All homework assignments will be submitted to Gradescope.
@@ -62,7 +65,7 @@ All homework assignments will be submitted to Gradescope.
     another. However, I understand if you want to keep this more
     private.\
     \
-    This is due **Tuesday, February 4th** in Gradescope.
+    This is due Tuesday, February 4th in Gradescope.
 
 ## Labs
 
