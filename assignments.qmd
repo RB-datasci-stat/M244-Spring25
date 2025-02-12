@@ -37,6 +37,9 @@ The form link is posted in Slack in `#m244-announcements`
 **02/06/25**. Look over the slides in Notes \> 5-datavis-R before class
 on Tuesday. Additionally, fill out the course check-in by Monday.
 
+**02/11/25.** Look over the slides in Notes \> 6-datavis-py before class
+on Thursday.
+
 ## Homework
 
 All homework assignments will be submitted to Gradescope.
@@ -73,6 +76,8 @@ All homework assignments will be submitted to Gradescope.
     in class on Tuesday, February 4th.
 2.  *R, Python, and Git: Oh My!* 02/06. This is due Monday, February
     10th in Gradescope.
+3.  *Data Visualization in R and Python*. 02/11 and 02/13. This is due
+    Monday, February 17th in Gradescope.
 
 ## Project
 
