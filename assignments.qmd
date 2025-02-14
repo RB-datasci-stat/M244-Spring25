@@ -55,20 +55,18 @@ All homework assignments will be submitted to Gradescope.
     \* How do you learn coding?\
     \* What have been your biggest successes and struggles with coding?\
     \* What are your coding goals?\
-
-    Try to not go over 2 pages for this, and it is fine if your essay is
-    only a couple paragraphs. At the end of the essay, please note if
-    you used generative AI to help write it or not, and why. It is up to
-    you to use this technology. I am interested in understanding why
-    people use (or do not use) it.\
-    \
-    At the bottom of your essay, please indicate if you are willing to
-    share this with the class in the Google Drive. I think many people
-    will enjoy reading your essay as it will help us connect with one
-    another. However, I understand if you want to keep this more
-    private.\
-    \
     This is due Tuesday, February 4th in Gradescope.
+
+2.  *Data Visualization.* Read the two articles on misleading data
+    visualizations during COVID-19 in the Essays \> 2-data-vis folder.
+    In your essay, include the following:\
+    \* Summarize the main take-aways in the two articles.\
+    \* Comment on both good or bad data visualizations you have
+    encountered.\
+    \* What will be your general approach for approaching data
+    visualizations in the future?\
+    Your essay should be around 1-2 pages in length. This is due
+    Thursday, February 20th in Gradescope.
 
 ## Labs
 
