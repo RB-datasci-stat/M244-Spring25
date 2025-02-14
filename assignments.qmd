@@ -40,6 +40,9 @@ on Tuesday. Additionally, fill out the course check-in by Monday.
 **02/11/25.** Look over the slides in Notes \> 6-datavis-py before class
 on Thursday.
 
+**02/13/25.** Look over the slides in Notes \> 7-webscraping-R before
+class on Tuesday. Additionally, fill out the course check-in by Monday.
+
 ## Homework
 
 All homework assignments will be submitted to Gradescope.
