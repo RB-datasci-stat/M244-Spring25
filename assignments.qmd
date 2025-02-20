@@ -43,12 +43,15 @@ on Thursday.
 **02/13/25.** Look over the slides in Notes \> 7-webscraping-R before
 class on Tuesday. Additionally, fill out the course check-in by Monday.
 
+**02/20/25.** Fill out the course check-in by Monday
+
 ## Homework
 
 All homework assignments will be submitted to Gradescope.
 
 0.  Course Information sheet. This is due Thursday, January 30th.
 1.  Data Science in R and Python. This is due Thursday, February 13th.
+2.  Web Scraping in R. This is due Thursday, February 27th.
 
 ## Essays
 
@@ -79,6 +82,8 @@ All homework assignments will be submitted to Gradescope.
     10th in Gradescope.
 3.  *Data Visualization in R and Python*. 02/11 and 02/13. This is due
     Monday, February 17th in Gradescope.
+4.  *Web Scraping in R.* 02/18 and 02/20. This is due Monday, February
+    24th in Gradescope.
 
 ## Project
 

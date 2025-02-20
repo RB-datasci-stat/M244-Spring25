@@ -40,3 +40,11 @@ Python.
 **02/13/25.** 6-datavis-py. These slides discuss how you can create data
 visualizations in Python. We also continued working on Lab 3: Data
 Visualization in R and Python.
+
+**02/18/25**. 7-webscraping-R. These slides discuss how to web scrape in
+R and how to write functions in R. We also started working on Lab 4: Web
+Scraping in R.
+
+**02/20/25.** 8-webscraping-R-py. These slides discuss how to web scrape
+in both R and Python at a larger scale. We continued working on Lab 4:
+Web Scraping in R.
