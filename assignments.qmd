@@ -84,7 +84,9 @@ All homework assignments will be submitted to Gradescope.
     Monday, February 17th in Gradescope.
 4.  *Web Scraping in R.* 02/18 and 02/20. This is due Monday, February
     24th in Gradescope.
+5.  *Intro to Machine Learning.* 02/25 and 02/27. This is due Monday,
+    March 3rd in Gradescope.
 
 ## Project
 
-TBA
+1.  Project Proposal. This is due Wednesday, March 5th.
