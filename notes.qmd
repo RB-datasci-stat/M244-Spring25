@@ -48,3 +48,10 @@ Scraping in R.
 **02/20/25.** 8-webscraping-R-py. These slides discuss how to web scrape
 in both R and Python at a larger scale. We continued working on Lab 4:
 Web Scraping in R.
+
+**02/25/25.** 9-intro-machine-learning. These slides introduce machine
+learning by discussing supervised & unsupervised learning, regression,
+and classification.
+
+**02/27/25.** 10-eval-models. These slides discuss how one can evaluate
+a model by thinking about mean square error, bias, and variance.
