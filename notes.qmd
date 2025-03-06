@@ -55,3 +55,8 @@ and classification.
 
 **02/27/25.** 10-eval-models. These slides discuss how one can evaluate
 a model by thinking about mean square error, bias, and variance.
+
+**03/04/25.** 11-datasci-ethics. These slides discuss data ethics and
+things to consider when pursuing your own data science projects.
+
+**03/06/25.** Project work day.

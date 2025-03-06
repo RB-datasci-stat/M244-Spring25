@@ -76,6 +76,17 @@ All homework assignments will be submitted to Gradescope.
     Your essay should be around 1-2 pages in length. This is due
     Thursday, February 20th in Gradescope.
 
+3.  *Data Ethics.* Read *Data Science as Political Action: Grounding
+    Data Science in a Politics of Justice* in Essays \> 3-ethics. In
+    your essay include the following:\
+    \* Summarize the key points in Green's article.\
+    \* In the context of your own personal values and Green’s article on
+    the politics of data science, what do you think is important when it
+    comes to the topics you and your group members picked for the
+    project?\
+    Your essay should be around 1-2 pages in length. This is due
+    Thursday, March 27th in Gradescope.
+
 ## Labs
 
 1.  *Introduction to Git for Version Control.* 01/30. We will finish it
@@ -89,6 +100,9 @@ All homework assignments will be submitted to Gradescope.
 5.  *Linear Regression with Penguins.* 02/25 and 02/27. This is due
     Monday, March 3rd in Gradescope.
 
+Note there is no lab for the week of 3/3-3/6.
+
 ## Project
 
 1.  Project Proposal. This is due Wednesday, March 5th.
+2.  Exploratory Data Analysis. This is due Thursday, April 3rd.
