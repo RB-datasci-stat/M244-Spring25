@@ -60,3 +60,10 @@ a model by thinking about mean square error, bias, and variance.
 things to consider when pursuing your own data science projects.
 
 **03/06/25.** Project work day.
+
+**03/25/25.** 13-lin-reg. These slides discuss linear regression and how
+to implement it in Python.
+
+**03/27/25**. 14-lasso-ridge and 13-lasso-ridge-code. These slides
+discuss ridge and lasso regression and how to implement these methods in
+Python and R.

@@ -47,6 +47,9 @@ class on Tuesday. Additionally, fill out the course check-in by Monday.
 
 **02/27/25.** Fill out the course check-in by Monday.
 
+**03/27/25.** Fill out the course check-in which is a mid semester
+feedback survey by Monday.
+
 ## Homework
 
 All homework assignments will be submitted to Gradescope.
@@ -99,8 +102,12 @@ All homework assignments will be submitted to Gradescope.
     24th in Gradescope.
 5.  *Linear Regression with Penguins.* 02/25 and 02/27. This is due
     Monday, March 3rd in Gradescope.
+6.  *Linear Regression in Python.* 03/25 and 03/27. This lab consists of
+    the in class exercises from these days. You can find them in the
+    slides. This is due Monday, March 31st in Gradescope.
 
-Note there is no lab for the week of 3/3-3/6.
+Note there was no lab for the week of 3/3-3/6 (week before spring
+break).
 
 ## Project
 
