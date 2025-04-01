@@ -67,3 +67,6 @@ to implement it in Python.
 **03/27/25**. 14-lasso-ridge and 13-lasso-ridge-code. These slides
 discuss ridge and lasso regression and how to implement these methods in
 Python and R.
+
+**04/01/25**. 15-logistic. These slides discuss logistic regression and
+how to implement it in Python.
