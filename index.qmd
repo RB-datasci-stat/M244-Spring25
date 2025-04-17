@@ -7,5 +7,3 @@ Welcome! This website contains course information for MATH 244: Intermediate Dat
 ![](hedgehog.png){fig-align="center" width="603"}
 
 [Artwork by \@allison_horst](https://twitter.com/allison_horst)
-
-[Data Science k-means activity for Vassar Science Scholars!](https://drive.google.com/drive/folders/12tGNfoFFs1yFPPEsV0tCRx4uX1s9bR-u?usp=drive_link)
