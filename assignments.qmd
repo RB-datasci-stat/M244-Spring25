@@ -51,7 +51,7 @@ class on Tuesday. Additionally, fill out the course check-in by Monday.
 feedback survey by Monday. Additionally, look over the slides in Notes
 \> 15-logistic before class on Tuesday.
 
-**04/15/25.** Fill out the course check-in by Friday
+**04/15/25.** Fill out the course check-in by Friday.
 
 ## Homework
 
@@ -96,7 +96,7 @@ All homework assignments will be submitted to Gradescope.
     Your essay should be around 1-2 pages in length. This is due
     Thursday, March 27th in Gradescope.
 
-4.  There will be a final take-home essay during Finals week.
+4.  There will be a final take-home essay during finals week.
 
 ## Labs
 
