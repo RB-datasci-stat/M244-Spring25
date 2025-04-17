@@ -64,9 +64,26 @@ things to consider when pursuing your own data science projects.
 **03/25/25.** 13-lin-reg. These slides discuss linear regression and how
 to implement it in Python.
 
-**03/27/25**. 14-lasso-ridge and 13-lasso-ridge-code. These slides
+**03/27/25.** 14-lasso-ridge and 13-lasso-ridge-code. These slides
 discuss ridge and lasso regression and how to implement these methods in
 Python and R.
 
-**04/01/25**. 15-logistic. These slides discuss logistic regression and
+**04/01/25.** 15-logistic. These slides discuss logistic regression and
 how to implement it in Python.
+
+**04/03/25.** 16-svm. These slides discuss support vector machines and
+how to implement them in Python.
+
+**04/08/25.** 17-trees. These slides discuss decision tree modeling and
+implementing them in Python.
+
+**04/10/25.** 18-forests. These slides discuss bagging, boosting, and
+random forests and how to implement them in Python.
+
+**04/15/25.** 19-unsupervised-PCA. These slides introduce unsupervised
+learning and give a brief overview of principal component analysis
+(PCA). I also talked about how I use unsupervised learning in my
+research.
+
+**04/17/25.** 20-clustering. These slides and activities discuss k-means
+and hierarchical clustering.

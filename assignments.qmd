@@ -51,6 +51,8 @@ class on Tuesday. Additionally, fill out the course check-in by Monday.
 feedback survey by Monday. Additionally, look over the slides in Notes
 \> 15-logistic before class on Tuesday.
 
+**04/15/25.** Fill out the course check-in by Friday
+
 ## Homework
 
 All homework assignments will be submitted to Gradescope.
@@ -60,6 +62,7 @@ All homework assignments will be submitted to Gradescope.
 2.  Web Scraping in R. This is due Thursday, February 27th.
 3.  Regularization and Deforestation in Python. This is due Thursday,
     April 10th.
+4.  Unsupervised Learning. This is due Thursday, May 1st.
 
 ## Essays
 
@@ -93,6 +96,8 @@ All homework assignments will be submitted to Gradescope.
     Your essay should be around 1-2 pages in length. This is due
     Thursday, March 27th in Gradescope.
 
+4.  There will be a final take-home essay during Finals week.
+
 ## Labs
 
 1.  *Introduction to Git for Version Control.* 01/30. We will finish it
@@ -112,6 +117,8 @@ All homework assignments will be submitted to Gradescope.
     This lab consists of the in class exercises from these days. you can
     find them in the slides. This is due Monday, April 7th in
     Gradescope.
+8.  *Trees for Evaluating Evaluations.* 04/10. This lab was not
+    collected.
 
 Note there was no lab for the week of 3/3-3/6 (week before spring
 break).
@@ -121,3 +128,7 @@ break).
 1.  Project Proposal. This is due Wednesday, March 5th.
 2.  Exploratory Data Analysis. This is due Thursday, April 3rd.
 3.  Preliminary Analysis. This is due Thursday, April 17th.
+4.  Peer Review. This is due Thursday, April 24th.
+5.  Project Presentations. These will occur Thursday, May 1st and
+    Tuesday, May 6th.
+6.  Final Report. This is due Tuesday, May 13th.
